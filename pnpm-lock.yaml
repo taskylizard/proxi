@@ -1,0 +1,21 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@cloudflare/workers-types': ^4.20230215.0
+  itty-router: ^3.0.11
+
+dependencies:
+  itty-router: 3.0.11
+
+devDependencies:
+  '@cloudflare/workers-types': 4.20230215.0
+
+packages:
+
+  /@cloudflare/workers-types/4.20230215.0:
+    resolution: {integrity: sha512-s71gaGwtEIxjSu6l0cekbXm9AwjrmrFVcHPNx9tHidG2dnqamYf5Nms/KgMYZf7gnjdKOp/ZChYFeJJkNv3QfA==}
+    dev: true
+
+  /itty-router/3.0.11:
+    resolution: {integrity: sha512-vWsoHBi2CmU15YzyUeHjRfjdySL2jqZQKA9jP1LXkBcLJAo0KQNVlQMvhtzG0mzABhVYifeBF97UkrrpuTCWYQ==}
+    dev: false

@@ -1,0 +1,8 @@
+dist
+.github/
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+renovate.json
+tsconfig.json
+package.json

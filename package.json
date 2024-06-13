@@ -1,0 +1,14 @@
+{
+  "name": "proxi",
+  "version": "0.0.0",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20230215.0"
+  },
+  "private": true,
+  "scripts": {
+    "start": "wrangler dev -l",
+    "deploy": "wrangler publish",
+    "fmt": "prettier -w src/index.ts"
+  },
+  "dependencies": {}
+}
